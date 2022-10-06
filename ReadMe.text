@@ -1,0 +1,6 @@
+In this project we have used BDD framework(Cucumber) for automation using Selenium with Java.
+In this I have automated
+1) Login and logout functionality - In this I,ve asserted the Logged In user too.
+2) SearchBar functionality on Homepage - In this I have searched the "Fastrack" product and added the Fastrack watch with 2 in quantity
+   in the cart.
+3) Asserted the product in Cart Icon in the Cart page
